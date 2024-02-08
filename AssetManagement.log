@@ -1,0 +1,26 @@
+2023-10-12 12:02:46.114  INFO 18608 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 18608 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-10-12 12:02:46.115  INFO 18608 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-10-12 12:02:46.372  INFO 18608 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-10-12 12:02:46.390  INFO 18608 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 17 ms. Found 5 JPA repository interfaces.
+2023-10-12 12:02:46.434  INFO 18608 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d8fe8651-7a8b-38dc-bdab-5b3972db476d
+2023-10-12 12:02:46.549  INFO 18608 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1200 (http)
+2023-10-12 12:02:46.550  INFO 18608 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-12 12:02:46.551  INFO 18608 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-10-12 12:02:46.596  INFO 18608 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-12 12:02:46.598  INFO 18608 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 480 ms
+2023-10-12 12:02:46.645  INFO 18608 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-12 12:02:46.650  INFO 18608 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2023-10-12 12:02:46.680  INFO 18608 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2023-10-12 12:02:46.681  INFO 18608 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-10-12 12:02:46.865  INFO 18608 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-12 12:02:46.865  INFO 18608 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-10-12 12:02:47.088  WARN 18608 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-10-12 12:02:47.645  INFO 18608 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-12 12:02:47.710  INFO 18608 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1200 (http) with context path ''
+2023-10-12 12:02:47.747  INFO 18608 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.779 seconds (JVM running for 328.376)
+2023-10-12 12:02:47.750  INFO 18608 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-10-12 12:02:52.156  INFO 18608 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-12 12:02:52.166  INFO 18608 --- [Thread-9] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-12 12:02:52.171  INFO 18608 --- [Thread-9] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-10-12 12:02:52.172  INFO 18608 --- [Thread-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2023-10-12 12:02:52.182  INFO 18608 --- [Thread-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.

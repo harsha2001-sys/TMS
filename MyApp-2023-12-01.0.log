@@ -1,0 +1,1255 @@
+2023-12-01 10:50:21.373  WARN 21284 --- [http-nio-9237-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 10:50:21.431  WARN 21284 --- [http-nio-9237-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 10:50:22.895  WARN 21284 --- [http-nio-9237-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 10:50:22.907  WARN 21284 --- [http-nio-9237-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 11:18:44.510  WARN 21284 --- [http-nio-9237-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 11:18:49.199  WARN 21284 --- [http-nio-9237-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 11:18:50.010  WARN 21284 --- [http-nio-9237-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 11:18:50.934  WARN 21284 --- [http-nio-9237-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 11:18:51.506  WARN 21284 --- [http-nio-9237-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:43:29.373  WARN 21284 --- [http-nio-9237-exec-5] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: No tasks found]
+2023-12-01 12:48:06.611  WARN 21284 --- [http-nio-9237-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:48:18.131  WARN 21284 --- [http-nio-9237-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:48:18.269  WARN 21284 --- [http-nio-9237-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:48:18.399  WARN 21284 --- [http-nio-9237-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:48:18.496  WARN 21284 --- [http-nio-9237-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:48:19.860  WARN 21284 --- [http-nio-9237-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:48:52.917  WARN 21284 --- [http-nio-9237-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:49:01.701  WARN 21284 --- [http-nio-9237-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:49:23.005  WARN 21284 --- [http-nio-9237-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:49:50.530  WARN 21284 --- [http-nio-9237-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:52:53.143  WARN 21284 --- [http-nio-9237-exec-10] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 12:52:53.149  WARN 21284 --- [http-nio-9237-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 12:52:53.926  WARN 21284 --- [http-nio-9237-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 12:52:53.933  WARN 21284 --- [http-nio-9237-exec-4] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 12:52:58.947  WARN 21284 --- [http-nio-9237-exec-5] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 12:52:58.952  WARN 21284 --- [http-nio-9237-exec-7] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.sbtaskmanagementsystem.exception.ExceptionClass: Invalid email or password]
+2023-12-01 12:53:38.855  WARN 21284 --- [http-nio-9237-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:11.810  WARN 21284 --- [http-nio-9237-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:16.173  WARN 21284 --- [http-nio-9237-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:16.321  WARN 21284 --- [http-nio-9237-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:16.456  WARN 21284 --- [http-nio-9237-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:16.673  WARN 21284 --- [http-nio-9237-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:16.840  WARN 21284 --- [http-nio-9237-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:16.989  WARN 21284 --- [http-nio-9237-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:17.127  WARN 21284 --- [http-nio-9237-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:17.518  WARN 21284 --- [http-nio-9237-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:54:17.659  WARN 21284 --- [http-nio-9237-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:56:38.285  WARN 21284 --- [http-nio-9237-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 12:56:43.680  WARN 21284 --- [http-nio-9237-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:04:39.802  WARN 21284 --- [http-nio-9237-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:04:52.605  WARN 21284 --- [http-nio-9237-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:05:08.769  WARN 21284 --- [http-nio-9237-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:05:45.983  WARN 21284 --- [http-nio-9237-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:05:57.288  WARN 21284 --- [http-nio-9237-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:06:03.637  WARN 21284 --- [http-nio-9237-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:06:19.314  WARN 21284 --- [http-nio-9237-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 13:06:34.138  WARN 21284 --- [http-nio-9237-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "NaN"]
+2023-12-01 18:16:24.531  WARN 21284 --- [http-nio-9237-exec-1] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction]
+2023-12-01 18:16:24.599  WARN 21284 --- [http-nio-9237-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction]
+2023-12-01 18:18:09.112  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:18:09.300  INFO 21284 --- [Thread-1459] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:18:09.317  INFO 21284 --- [Thread-1459] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01 18:18:09.552  WARN 21284 --- [Thread-1459] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-257] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.8/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.8/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+ java.base@17.0.8/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+ java.base@17.0.8/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.8/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.8/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8/java.lang.Thread.run(Thread.java:833)
+2023-12-01 18:18:09.617  INFO 21284 --- [Thread-1459] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:18:09.647  INFO 21284 --- [Thread-1459] com.zaxxer.hikari.HikariDataSource       : HikariPool-252 - Shutdown initiated...
+2023-12-01 18:18:09.698  INFO 21284 --- [Thread-1459] com.zaxxer.hikari.HikariDataSource       : HikariPool-252 - Shutdown completed.
+2023-12-01 18:18:11.575  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:18:11.575  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:18:12.218  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:18:12.228  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:18:12.269  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:18:12.454  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:18:12.455  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:18:12.455  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:18:12.498  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:18:12.498  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 886 ms
+2023-12-01 18:18:12.534  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:18:12.538  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-253 - Starting...
+2023-12-01 18:18:12.564  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-253 - Start completed.
+2023-12-01 18:18:12.580  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:18:13.945  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:18:13.946  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:18:14.347  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:18:14.772  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:18:14.968  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:18:15.001  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 3.579 seconds (JVM running for 617769.852)
+2023-12-01 18:18:15.002  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:18:20.640  INFO 21284 --- [http-nio-9237-exec-1] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01 18:18:20.640  INFO 21284 --- [http-nio-9237-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01 18:18:20.641  INFO 21284 --- [http-nio-9237-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-01 18:18:20.756 ERROR 21284 --- [http-nio-9237-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction] with root cause
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.sbtaskmanagementsystem.entity.Employee] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Check the email address', propertyPath=emailId, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Check the email address'}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:18:20.794 ERROR 21284 --- [http-nio-9237-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction] with root cause
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.sbtaskmanagementsystem.entity.Employee] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Check the email address', propertyPath=emailId, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Check the email address'}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:19:39.928 ERROR 21284 --- [http-nio-9237-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction] with root cause
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.sbtaskmanagementsystem.entity.Employee] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Check the email address', propertyPath=emailId, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Check the email address'}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:19:39.942 ERROR 21284 --- [http-nio-9237-exec-4] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction] with root cause
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.sbtaskmanagementsystem.entity.Employee] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Check the email address', propertyPath=emailId, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Check the email address'}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:21:13.171 ERROR 21284 --- [http-nio-9237-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction] with root cause
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.sbtaskmanagementsystem.entity.Employee] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Check the email address', propertyPath=emailId, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Check the email address'}
+	ConstraintViolationImpl{interpolatedMessage='Enter the Employee name ', propertyPath=employeeName, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Enter the Employee name '}
+	ConstraintViolationImpl{interpolatedMessage='Name should be above 2 letters and below 20 letters ', propertyPath=employeeName, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Name should be above 2 letters and below 20 letters '}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:21:13.171 ERROR 21284 --- [http-nio-9237-exec-5] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.transaction.TransactionSystemException: Could not commit JPA transaction; nested exception is javax.persistence.RollbackException: Error while committing the transaction] with root cause
+
+javax.validation.ConstraintViolationException: Validation failed for classes [com.sbtaskmanagementsystem.entity.Employee] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Check the email address', propertyPath=emailId, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Check the email address'}
+	ConstraintViolationImpl{interpolatedMessage='Enter the Employee name ', propertyPath=employeeName, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Enter the Employee name '}
+	ConstraintViolationImpl{interpolatedMessage='Name should be above 2 letters and below 20 letters ', propertyPath=employeeName, rootBeanClass=class com.sbtaskmanagementsystem.entity.Employee, messageTemplate='Name should be above 2 letters and below 20 letters '}
+]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.validate(BeanValidationEventListener.java:140) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.beanvalidation.BeanValidationEventListener.onPreInsert(BeanValidationEventListener.java:80) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.preInsert(EntityInsertAction.java:214) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:100) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:22:19.483  WARN 21284 --- [http-nio-9237-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 1062, SQLState: 23000
+2023-12-01 18:22:19.483 ERROR 21284 --- [http-nio-9237-exec-8] o.h.engine.jdbc.spi.SqlExceptionHelper   : Duplicate entry '28' for key 'employee.PRIMARY'
+2023-12-01 18:22:19.483  INFO 21284 --- [http-nio-9237-exec-8] o.h.e.j.b.internal.AbstractBatchImpl     : HHH000010: On release of batch it still contained JDBC statements
+2023-12-01 18:22:19.485 ERROR 21284 --- [http-nio-9237-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [employee.PRIMARY]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement] with root cause
+
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '28' for key 'employee.PRIMARY'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:118) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1009) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1320) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:994) ~[mysql-connector-j-8.0.33.jar:8.0.33]
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java) ~[HikariCP-4.0.3.jar:na]
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.batch.internal.NonBatchingBatch.addToBatch(NonBatchingBatch.java:46) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3375) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3937) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1407) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:489) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3303) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2438) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562) ~[spring-orm-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137) ~[spring-tx-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174) ~[spring-data-jpa-2.7.16.jar:2.7.16]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.30.jar:5.3.30]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:241) ~[spring-aop-5.3.30.jar:5.3.30]
+	at jdk.proxy256/jdk.proxy256.$Proxy1905.save(Unknown Source) ~[na:na]
+	at com.sbtaskmanagementsystem.service.ManagerServiceImpl.createEmployee(ManagerServiceImpl.java:74) ~[classes/:na]
+	at com.sbtaskmanagementsystem.controller.ManagerController.createEmployee(ManagerController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.30.jar:5.3.30]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[tomcat-embed-core-9.0.80.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.30.jar:5.3.30]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1790) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.80.jar:9.0.80]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-12-01 18:27:23.409  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-12-01 18:27:23.419  INFO 21284 --- [Thread-1465] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:27:23.420  INFO 21284 --- [Thread-1465] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-01 18:27:23.423  INFO 21284 --- [Thread-1465] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:27:23.424  INFO 21284 --- [Thread-1465] com.zaxxer.hikari.HikariDataSource       : HikariPool-253 - Shutdown initiated...
+2023-12-01 18:27:23.430  INFO 21284 --- [Thread-1465] com.zaxxer.hikari.HikariDataSource       : HikariPool-253 - Shutdown completed.
+2023-12-01 18:27:23.581  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:27:23.582  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:27:23.726  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:27:23.734  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:27:23.750  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:27:23.804  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:27:23.805  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:27:23.805  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:27:23.830  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:27:23.830  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 247 ms
+2023-12-01 18:27:23.846  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:27:23.849  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-254 - Starting...
+2023-12-01 18:27:23.872  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-254 - Start completed.
+2023-12-01 18:27:23.872  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:27:24.113  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:27:24.114  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:27:24.270  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:27:24.578  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:27:24.628  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:27:24.660  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.13 seconds (JVM running for 618319.503)
+2023-12-01 18:27:24.661  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:27:35.232  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2023-12-01 18:27:35.241  INFO 21284 --- [Thread-1471] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:27:35.244  INFO 21284 --- [Thread-1471] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:27:35.245  INFO 21284 --- [Thread-1471] com.zaxxer.hikari.HikariDataSource       : HikariPool-254 - Shutdown initiated...
+2023-12-01 18:27:35.251  INFO 21284 --- [Thread-1471] com.zaxxer.hikari.HikariDataSource       : HikariPool-254 - Shutdown completed.
+2023-12-01 18:27:35.431  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:27:35.431  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:27:35.584  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:27:35.599  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:27:35.618  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:27:35.660  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:27:35.661  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:27:35.661  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:27:35.688  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:27:35.688  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 254 ms
+2023-12-01 18:27:35.770  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:27:35.773  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-255 - Starting...
+2023-12-01 18:27:35.785  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-255 - Start completed.
+2023-12-01 18:27:35.816  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:27:36.141  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:27:36.141  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:27:36.257  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:27:36.528  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:27:36.590  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:27:36.621  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.26 seconds (JVM running for 618331.464)
+2023-12-01 18:27:36.621  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:14.713  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:14.723  INFO 21284 --- [Thread-1477] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:14.727  INFO 21284 --- [Thread-1477] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:14.727  INFO 21284 --- [Thread-1477] com.zaxxer.hikari.HikariDataSource       : HikariPool-255 - Shutdown initiated...
+2023-12-01 18:28:14.734  INFO 21284 --- [Thread-1477] com.zaxxer.hikari.HikariDataSource       : HikariPool-255 - Shutdown completed.
+2023-12-01 18:28:14.910  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:14.910  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:15.064  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:15.090  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:15.109  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:15.187  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:15.187  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:15.187  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:15.220  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-25].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:15.220  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 278 ms
+2023-12-01 18:28:15.275  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:15.278  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-256 - Starting...
+2023-12-01 18:28:15.302  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-256 - Start completed.
+2023-12-01 18:28:15.302  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:15.655  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:15.655  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:15.669  WARN 21284 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeeController': Unsatisfied dependency expressed through field 'employeeServiceImpl'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'employeeServiceImpl' defined in file [D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes\com\sbtaskmanagementsystem\service\EmployeeServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sbtaskmanagementsystem.service.EmployeeServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	managerList cannot be resolved to a variable
+	Syntax error on token "}", delete this token
+
+2023-12-01 18:28:15.669  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:15.670  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-256 - Shutdown initiated...
+2023-12-01 18:28:15.677  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-256 - Shutdown completed.
+2023-12-01 18:28:15.678  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:15.682  INFO 21284 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-12-01 18:28:15.685 ERROR 21284 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeeController': Unsatisfied dependency expressed through field 'employeeServiceImpl'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'employeeServiceImpl' defined in file [D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes\com\sbtaskmanagementsystem\service\EmployeeServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sbtaskmanagementsystem.service.EmployeeServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	managerList cannot be resolved to a variable
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:713) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:693) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:408) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:921) ~[spring-context-5.3.30.jar:5.3.30]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.30.jar:5.3.30]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.16.jar:2.7.16]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:731) ~[spring-boot-2.7.16.jar:2.7.16]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408) ~[spring-boot-2.7.16.jar:2.7.16]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307) ~[spring-boot-2.7.16.jar:2.7.16]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303) ~[spring-boot-2.7.16.jar:2.7.16]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292) ~[spring-boot-2.7.16.jar:2.7.16]
+	at com.sbtaskmanagementsystem.SbtaskmanagementsystemApplication.main(SbtaskmanagementsystemApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-2.7.16.jar:2.7.16]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'employeeServiceImpl' defined in file [D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes\com\sbtaskmanagementsystem\service\EmployeeServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sbtaskmanagementsystem.service.EmployeeServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	managerList cannot be resolved to a variable
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:710) ~[spring-beans-5.3.30.jar:5.3.30]
+	... 25 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sbtaskmanagementsystem.service.EmployeeServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	managerList cannot be resolved to a variable
+	Syntax error on token "}", delete this token
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.3.30.jar:5.3.30]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326) ~[spring-beans-5.3.30.jar:5.3.30]
+	... 36 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	managerList cannot be resolved to a variable
+	Syntax error on token "}", delete this token
+
+	at com.sbtaskmanagementsystem.service.EmployeeServiceImpl.<init>(EmployeeServiceImpl.java:74) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211) ~[spring-beans-5.3.30.jar:5.3.30]
+	... 38 common frames omitted
+
+2023-12-01 18:28:19.215  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:19.216  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:19.426  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:19.435  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:19.462  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:19.499  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:19.500  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:19.500  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:19.527  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:19.527  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 310 ms
+2023-12-01 18:28:19.544  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:19.548  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-257 - Starting...
+2023-12-01 18:28:19.561  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-257 - Start completed.
+2023-12-01 18:28:19.561  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:19.852  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:19.865  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:19.983  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:20.316  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:20.390  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:20.490  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.319 seconds (JVM running for 618375.329)
+2023-12-01 18:28:20.491  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:24.779  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:24.796  INFO 21284 --- [Thread-1483] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:24.801  INFO 21284 --- [Thread-1483] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:24.802  INFO 21284 --- [Thread-1483] com.zaxxer.hikari.HikariDataSource       : HikariPool-257 - Shutdown initiated...
+2023-12-01 18:28:24.809  INFO 21284 --- [Thread-1483] com.zaxxer.hikari.HikariDataSource       : HikariPool-257 - Shutdown completed.
+2023-12-01 18:28:24.972  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:24.972  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:25.140  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:25.147  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:25.163  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:25.208  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:25.208  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:25.209  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:25.234  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:25.234  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 261 ms
+2023-12-01 18:28:25.251  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:25.254  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-258 - Starting...
+2023-12-01 18:28:25.278  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-258 - Start completed.
+2023-12-01 18:28:25.278  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:25.507  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:25.507  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:25.608  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:25.909  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:25.963  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:26.064  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.145 seconds (JVM running for 618380.903)
+2023-12-01 18:28:26.065  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:27.337  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:27.346  INFO 21284 --- [Thread-1493] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:27.349  INFO 21284 --- [Thread-1493] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:27.350  INFO 21284 --- [Thread-1493] com.zaxxer.hikari.HikariDataSource       : HikariPool-258 - Shutdown initiated...
+2023-12-01 18:28:27.356  INFO 21284 --- [Thread-1493] com.zaxxer.hikari.HikariDataSource       : HikariPool-258 - Shutdown completed.
+2023-12-01 18:28:27.551  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:27.551  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:27.767  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:27.786  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 18 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:27.820  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:27.866  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:27.866  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:27.867  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:27.892  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:27.892  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 332 ms
+2023-12-01 18:28:27.915  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:27.918  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-259 - Starting...
+2023-12-01 18:28:27.941  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-259 - Start completed.
+2023-12-01 18:28:27.941  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:28.168  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:28.168  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:28.337  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:28.680  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:28.771  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:28.807  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.307 seconds (JVM running for 618383.646)
+2023-12-01 18:28:28.808  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:30.114  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:30.131  INFO 21284 --- [Thread-1499] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:30.165  INFO 21284 --- [Thread-1499] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:30.165  INFO 21284 --- [Thread-1499] com.zaxxer.hikari.HikariDataSource       : HikariPool-259 - Shutdown initiated...
+2023-12-01 18:28:30.171  INFO 21284 --- [Thread-1499] com.zaxxer.hikari.HikariDataSource       : HikariPool-259 - Shutdown completed.
+2023-12-01 18:28:30.365  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:30.366  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:30.592  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:30.601  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:30.624  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:30.672  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:30.673  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:30.673  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:30.701  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:30.701  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 334 ms
+2023-12-01 18:28:30.718  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:30.727  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-260 - Starting...
+2023-12-01 18:28:30.774  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-260 - Start completed.
+2023-12-01 18:28:30.774  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:31.097  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:31.097  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:31.305  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:31.730  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:31.792  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:31.824  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.549 seconds (JVM running for 618386.663)
+2023-12-01 18:28:31.825  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:35.203  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:35.213  INFO 21284 --- [Thread-1505] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:35.216  INFO 21284 --- [Thread-1505] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:35.217  INFO 21284 --- [Thread-1505] com.zaxxer.hikari.HikariDataSource       : HikariPool-260 - Shutdown initiated...
+2023-12-01 18:28:35.223  INFO 21284 --- [Thread-1505] com.zaxxer.hikari.HikariDataSource       : HikariPool-260 - Shutdown completed.
+2023-12-01 18:28:35.357  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:35.357  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:35.612  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:35.620  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:35.639  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:35.678  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:35.679  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:35.679  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:35.706  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:35.706  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 348 ms
+2023-12-01 18:28:35.721  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:35.724  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-261 - Starting...
+2023-12-01 18:28:35.736  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-261 - Start completed.
+2023-12-01 18:28:35.736  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:35.824  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:35.824  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:36.083  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:36.504  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:36.552  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:36.585  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.276 seconds (JVM running for 618391.424)
+2023-12-01 18:28:36.585  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:40.006  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:40.015  INFO 21284 --- [Thread-1511] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:40.020  INFO 21284 --- [Thread-1511] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:40.020  INFO 21284 --- [Thread-1511] com.zaxxer.hikari.HikariDataSource       : HikariPool-261 - Shutdown initiated...
+2023-12-01 18:28:40.029  INFO 21284 --- [Thread-1511] com.zaxxer.hikari.HikariDataSource       : HikariPool-261 - Shutdown completed.
+2023-12-01 18:28:40.182  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:40.182  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:40.376  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:40.501  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 124 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:40.525  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:40.564  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:40.564  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:40.564  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:40.591  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:40.591  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 408 ms
+2023-12-01 18:28:40.610  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:40.612  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-262 - Starting...
+2023-12-01 18:28:40.711  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-262 - Start completed.
+2023-12-01 18:28:40.711  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:40.785  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:40.785  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:40.922  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:41.482  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:41.533  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:41.564  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.432 seconds (JVM running for 618396.402)
+2023-12-01 18:28:41.565  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:42.914  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:42.932  INFO 21284 --- [Thread-1517] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:42.936  INFO 21284 --- [Thread-1517] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:42.936  INFO 21284 --- [Thread-1517] com.zaxxer.hikari.HikariDataSource       : HikariPool-262 - Shutdown initiated...
+2023-12-01 18:28:42.942  INFO 21284 --- [Thread-1517] com.zaxxer.hikari.HikariDataSource       : HikariPool-262 - Shutdown completed.
+2023-12-01 18:28:43.083  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:43.083  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:43.198  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:43.258  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 59 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:43.275  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:43.316  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:43.316  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:43.316  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:43.345  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:43.345  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 261 ms
+2023-12-01 18:28:43.361  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:43.363  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-263 - Starting...
+2023-12-01 18:28:43.392  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-263 - Start completed.
+2023-12-01 18:28:43.392  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:43.587  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:43.587  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:43.882  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:44.218  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:44.269  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:44.411  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.374 seconds (JVM running for 618399.249)
+2023-12-01 18:28:44.412  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:48.742  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:48.751  INFO 21284 --- [Thread-1523] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:48.755  INFO 21284 --- [Thread-1523] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:48.755  INFO 21284 --- [Thread-1523] com.zaxxer.hikari.HikariDataSource       : HikariPool-263 - Shutdown initiated...
+2023-12-01 18:28:48.761  INFO 21284 --- [Thread-1523] com.zaxxer.hikari.HikariDataSource       : HikariPool-263 - Shutdown completed.
+2023-12-01 18:28:48.903  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:48.903  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:49.119  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:49.127  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:49.143  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:49.182  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:49.183  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:49.183  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:49.213  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:49.213  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 309 ms
+2023-12-01 18:28:49.229  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:49.232  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-264 - Starting...
+2023-12-01 18:28:49.263  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-264 - Start completed.
+2023-12-01 18:28:49.264  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:49.307  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:49.307  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:49.420  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:49.865  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:49.915  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:49.946  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.095 seconds (JVM running for 618404.784)
+2023-12-01 18:28:49.947  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:52.321  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:52.330  INFO 21284 --- [Thread-1529] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:52.334  INFO 21284 --- [Thread-1529] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:52.335  INFO 21284 --- [Thread-1529] com.zaxxer.hikari.HikariDataSource       : HikariPool-264 - Shutdown initiated...
+2023-12-01 18:28:52.341  INFO 21284 --- [Thread-1529] com.zaxxer.hikari.HikariDataSource       : HikariPool-264 - Shutdown completed.
+2023-12-01 18:28:52.529  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:52.529  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:52.653  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:52.716  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 63 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:52.744  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:52.784  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:52.785  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:52.785  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:52.812  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:52.812  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 282 ms
+2023-12-01 18:28:52.834  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:52.838  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-265 - Starting...
+2023-12-01 18:28:52.852  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-265 - Start completed.
+2023-12-01 18:28:52.853  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:52.931  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:52.931  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:53.005  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:53.323  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:53.370  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:53.401  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 0.926 seconds (JVM running for 618408.239)
+2023-12-01 18:28:53.402  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:28:57.803  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:28:57.812  INFO 21284 --- [Thread-1535] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:28:57.816  INFO 21284 --- [Thread-1535] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:57.816  INFO 21284 --- [Thread-1535] com.zaxxer.hikari.HikariDataSource       : HikariPool-265 - Shutdown initiated...
+2023-12-01 18:28:57.822  INFO 21284 --- [Thread-1535] com.zaxxer.hikari.HikariDataSource       : HikariPool-265 - Shutdown completed.
+2023-12-01 18:28:57.975  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:28:57.975  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:28:58.096  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:28:58.104  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:28:58.121  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:28:58.157  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:28:58.157  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:28:58.157  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:28:58.183  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:28:58.183  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 206 ms
+2023-12-01 18:28:58.198  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:28:58.201  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-266 - Starting...
+2023-12-01 18:28:58.212  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-266 - Start completed.
+2023-12-01 18:28:58.212  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:28:58.258  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:28:58.258  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:28:58.384  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:28:58.687  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:28:58.737  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:28:58.769  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 0.845 seconds (JVM running for 618413.606)
+2023-12-01 18:28:58.770  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:29:03.173  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:29:03.186  INFO 21284 --- [Thread-1541] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:29:03.211  INFO 21284 --- [Thread-1541] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:29:03.212  INFO 21284 --- [Thread-1541] com.zaxxer.hikari.HikariDataSource       : HikariPool-266 - Shutdown initiated...
+2023-12-01 18:29:03.220  INFO 21284 --- [Thread-1541] com.zaxxer.hikari.HikariDataSource       : HikariPool-266 - Shutdown completed.
+2023-12-01 18:29:03.406  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:29:03.406  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:29:03.576  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:29:03.584  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:29:03.607  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:29:03.645  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:29:03.645  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:29:03.645  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:29:03.671  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:29:03.671  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 263 ms
+2023-12-01 18:29:03.687  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:29:03.690  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-267 - Starting...
+2023-12-01 18:29:03.703  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-267 - Start completed.
+2023-12-01 18:29:03.703  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:29:03.773  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:29:03.774  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:29:03.858  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:29:04.172  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:29:04.223  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:29:04.254  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 0.904 seconds (JVM running for 618419.091)
+2023-12-01 18:29:04.254  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:29:14.761  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:29:14.774  INFO 21284 --- [Thread-1547] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:29:14.778  INFO 21284 --- [Thread-1547] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:29:14.778  INFO 21284 --- [Thread-1547] com.zaxxer.hikari.HikariDataSource       : HikariPool-267 - Shutdown initiated...
+2023-12-01 18:29:14.784  INFO 21284 --- [Thread-1547] com.zaxxer.hikari.HikariDataSource       : HikariPool-267 - Shutdown completed.
+2023-12-01 18:29:14.991  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:29:14.991  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:29:15.122  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:29:15.130  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:29:15.183  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:29:15.339  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:29:15.365  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:29:15.365  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:29:15.392  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:29:15.392  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 400 ms
+2023-12-01 18:29:15.418  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:29:15.429  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-268 - Starting...
+2023-12-01 18:29:15.442  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-268 - Start completed.
+2023-12-01 18:29:15.442  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:29:15.501  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:29:15.501  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:29:15.603  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:29:15.910  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:29:15.961  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:29:15.992  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.078 seconds (JVM running for 618430.828)
+2023-12-01 18:29:15.993  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:29:19.409  INFO 21284 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-01 18:29:19.418  INFO 21284 --- [Thread-1553] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-01 18:29:19.422  INFO 21284 --- [Thread-1553] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:29:19.423  INFO 21284 --- [Thread-1553] com.zaxxer.hikari.HikariDataSource       : HikariPool-268 - Shutdown initiated...
+2023-12-01 18:29:19.429  INFO 21284 --- [Thread-1553] com.zaxxer.hikari.HikariDataSource       : HikariPool-268 - Shutdown completed.
+2023-12-01 18:29:19.578  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Starting SbtaskmanagementsystemApplication using Java 17.0.8 on STGIDT-NEW-134 with PID 21284 (D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem\target\classes started by harshavardananb in D:\Harsha\java training\sbtaskmanagementsystem final\sbtaskmanagementsystem new (4)\sbtaskmanagementsystem new (3)\sbtaskmanagementsystem new\sbtaskmanagementsystem)
+2023-12-01 18:29:19.578  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 18:29:19.723  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-01 18:29:19.732  INFO 21284 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 3 JPA repository interfaces.
+2023-12-01 18:29:19.748  INFO 21284 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=d6cfecbf-69c7-3df5-b093-6276d4c3bce5
+2023-12-01 18:29:19.854  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9237 (http)
+2023-12-01 18:29:19.855  INFO 21284 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-01 18:29:19.855  INFO 21284 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.80]
+2023-12-01 18:29:19.894  INFO 21284 --- [restartedMain] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2023-12-01 18:29:19.894  INFO 21284 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 315 ms
+2023-12-01 18:29:19.909  INFO 21284 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-01 18:29:19.910  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-269 - Starting...
+2023-12-01 18:29:19.933  INFO 21284 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-269 - Start completed.
+2023-12-01 18:29:19.933  INFO 21284 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2023-12-01 18:29:20.001  INFO 21284 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-01 18:29:20.002  INFO 21284 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-01 18:29:20.174  WARN 21284 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-01 18:29:20.545  INFO 21284 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-01 18:29:20.669  INFO 21284 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9237 (http) with context path ''
+2023-12-01 18:29:20.741  INFO 21284 --- [restartedMain] c.s.SbtaskmanagementsystemApplication    : Started SbtaskmanagementsystemApplication in 1.214 seconds (JVM running for 618435.577)
+2023-12-01 18:29:20.742  INFO 21284 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-01 18:29:33.589  INFO 21284 --- [http-nio-9237-exec-1] o.a.c.c.C.[Tomcat-26].[localhost].[/]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-01 18:29:33.589  INFO 21284 --- [http-nio-9237-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-01 18:29:33.590  INFO 21284 --- [http-nio-9237-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
