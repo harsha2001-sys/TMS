@@ -1,0 +1,31 @@
+version: '3.7'
+
+services:
+  mysqldb:
+    image: mysql
+    container_name: sqldb
+    environment:
+      MYSQL_ROOT_PASSWORD: Reset123
+      MYSQL_DATABASE: task-management-system
+    ports:
+      - "3307:3306"
+    networks:
+      - tms-network
+
+  tms-backend:
+    image: tms-backend
+    container_name: backend-container
+    ports:
+      - "9237:9237"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysqldb:3306/task-management-system
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: Reset123
+    depends_on:
+      - mysqldb
+    networks:
+      - tms-network
+
+networks:
+  tms-network:
+    driver: bridge
