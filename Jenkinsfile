@@ -10,7 +10,7 @@ pipeline {
         stage('Build Spring Boot Application') {
             steps {
                 script {
-                    dir('C:\ProgramData\Jenkins\.jenkins\workspace\Pipeline project') {
+                    dir('C:/ProgramData/Jenkins/.jenkins/workspace/Pipeline project') {
                         bat 'mvn clean package'
                     }
                 }
@@ -19,7 +19,7 @@ pipeline {
         stage('Build Backend Docker Image') {
             steps {
                 script {
-                    dir('C:\ProgramData\Jenkins\.jenkins\workspace\Pipeline project') {
+                    dir('C:/ProgramData/Jenkins/.jenkins/workspace/Pipeline project') {
                         bat 'docker buildx build -t tms-backend:latest .'
                     }
                 }
@@ -28,7 +28,7 @@ pipeline {
         stage('Build Frontend Docker Image') {
             steps {
                 script {
-                    dir('C:\\Users\\harshavardananb\\Desktop\\TMS') {
+                    dir('C:/Users/harshavardananb/Desktop/TMS') {
                         bat 'docker buildx build -t tms-angular-app:latest .'
                     }
                 }
@@ -37,7 +37,7 @@ pipeline {
         stage('Deploy with Docker Compose') {
             steps {
                 script {
-                    dir('C:\\Users\\harshavardananb\\Desktop\\TMS') {
+                    dir('C:/Users/harshavardananb/Desktop/TMS') {
                         bat 'docker-compose up -d'
                     }
                 }
