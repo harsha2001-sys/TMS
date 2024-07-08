@@ -10,7 +10,7 @@ pipeline {
         stage('Build Spring Boot Application') {
             steps {
                 script {
-                    dir('C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Spring Boot Freestyle project') {
+                    dir('C:\ProgramData\Jenkins\.jenkins\workspace\Pipeline project') {
                         bat 'mvn clean package'
                     }
                 }
@@ -19,7 +19,7 @@ pipeline {
         stage('Build Backend Docker Image') {
             steps {
                 script {
-                    dir('C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Spring Boot Freestyle project') {
+                    dir('C:\ProgramData\Jenkins\.jenkins\workspace\Pipeline project') {
                         bat 'docker buildx build -t tms-backend:latest .'
                     }
                 }
