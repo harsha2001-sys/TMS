@@ -10,18 +10,16 @@ pipeline {
         stage('Build Spring Boot Application') {
             steps {
                 script {
-                    dir('C:/ProgramData/Jenkins/.jenkins/workspace/Pipeline project') {
-                        bat 'mvn clean package'
-                    }
+                    // Running Maven build in the current directory where the repository is checked out
+                    bat 'mvn clean package'
                 }
             }
         }
         stage('Build Backend Docker Image') {
             steps {
                 script {
-                    dir('C:/ProgramData/Jenkins/.jenkins/workspace/Pipeline project') {
-                        bat 'docker buildx build -t tms-backend:latest .'
-                    }
+                    // Running Docker build in the current directory where the repository is checked out
+                    bat 'docker buildx build -t tms-backend:latest .'
                 }
             }
         }
